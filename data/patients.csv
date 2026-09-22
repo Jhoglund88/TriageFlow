@@ -1,2 +1,9 @@
-age,symptom_category,symptom_description,pain_scale,emergency_reason
-4,Infektion/Feber,ont i halsen,9,extrem värk
+age,symptom_category,symptom_description,pain_scale,emergency_reason,ai_response
+55,Sår/Skador,ont i halsen,7,,"**urgency_level:** 3  
+**recommendation:** Kontakta vårdcentralen eller ring 1177 för att få en tid samma dag eller inom 24 timmar. Om du får svårighet att andas, hög feber, svullnad i halsen eller svullna lymfkörtlar bör du söka akutvård på en närakut eller uppsöka akutmottagning.  
+**reason:** En 55‑årig med stark halsont (7/10) kan ha en bakteriell infektion eller annan allvarligare orsak som kräver snabb medicinsk bedömning, men utan tecken på livshotande andningssvårigheter är en snar primärvårdskonsultation lämplig."
+44,Infektion/Feber,hög feber,6,,"**urgency_level:** 3  
+
+**recommendation:** Kontakta en vårdcentral eller en akut mottagning för en medicinsk bedömning så snart som möjligt (inom samma dag). Om febern är mycket hög (≥ 39 °C) eller snabbt förvärras, eller om du får nya symtom som andningssvårigheter, yrsel eller kraftig huvudvärk, sök omedelbart akutvård (akutmottagning). Drick mycket vätska, vila och ta febernedsättande (t.ex. paracetamol) om du har det.
+
+**reason:** En 44‑årig med hög feber och måttlig smärta kan ha en allvarlig infektion som kräver snabb utredning och eventuell behandling med antibiotika eller annan specifik terapi. Att få en klinisk bedömning inom kort minskar risken för komplikationer."
