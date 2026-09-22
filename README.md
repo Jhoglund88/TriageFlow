@@ -30,5 +30,10 @@ Manuella tester genomförda:
 - [x] Varje patient får en separat AI-bedömning via API.
 - [x] AI-bedömningen sparas i `ai_response` i `patients.csv`.
 - [x] Nya patienter läggs till utan att tidigare CSV-data skrivs över.
-- [X] Akutpatient (`pain_scale >= 8`) sparas med `emergency_reason`.
-
+- [x] Akutpatient (`pain_scale >= 8`) sparas med `emergency_reason`.
+- [x] Patientdata sparas även om AI-bedömningen misslyckas.
+- [x] Saknad API-nyckel hanteras utan att programmet kraschar.
+- [x] Felaktig API-nyckel hanteras som ett HTTP-fel.
+- [x] Timeout vid API-anrop hanteras utan att programmet kraschar.
+- [x] Ogiltigt JSON-svar hanteras utan att programmet kraschar.
+- [x] API-svar med oväntat format hanteras utan att programmet kraschar.
