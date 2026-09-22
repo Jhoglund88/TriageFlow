@@ -7,3 +7,6 @@ age,symptom_category,symptom_description,pain_scale,emergency_reason,ai_response
 **recommendation:** Kontakta en vårdcentral eller en akut mottagning för en medicinsk bedömning så snart som möjligt (inom samma dag). Om febern är mycket hög (≥ 39 °C) eller snabbt förvärras, eller om du får nya symtom som andningssvårigheter, yrsel eller kraftig huvudvärk, sök omedelbart akutvård (akutmottagning). Drick mycket vätska, vila och ta febernedsättande (t.ex. paracetamol) om du har det.
 
 **reason:** En 44‑årig med hög feber och måttlig smärta kan ha en allvarlig infektion som kräver snabb utredning och eventuell behandling med antibiotika eller annan specifik terapi. Att få en klinisk bedömning inom kort minskar risken för komplikationer."
+55,Sår/Skador,ont i halsen,9,extremt värk i halsen,"**urgency_level:** 5  
+**recommendation:** Sök omedelbart akut vård – gå till närmaste akutmottagning eller ring 112 om du får svårigheter att andas, svullnad i halsen eller hög feber.  
+**reason:** Svår halsont (9/10) hos en 55‑årig kan vara ett tecken på en allvarlig infektion (t.ex. peritonsillär abscess eller epiglottit) som kräver snabb medicinsk bedömning och eventuell behandling."
