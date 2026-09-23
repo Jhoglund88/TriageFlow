@@ -20,3 +20,19 @@ age,symptom_category,symptom_description,pain_scale,emergency_reason,ai_response
 6. Sök vård om såret är djupt, blöder kraftigt, är större än 2 cm, eller om du får feber eller andra infektionstecken.  
 
 **reason:** Såret är sannolikt en ytlig skråma med måttlig smärta; det kan behandlas hemma med grundläggande sårvård, men uppföljning är viktig för att upptäcka eventuell infektion eller djupare skada."
+33,Sår/Skador,ajajaja,4,,"- **urgency_level:** 2  
+- **recommendation:** Rengör såret noggrant med tvål och vatten, applicera ett antiseptiskt förband och håll det torrt. Om såret visar tecken på infektion (ökad rodnad, svullnad, var eller feber) eller om smärtan blir värre, sök vård på en vårdcentral eller akutmottagning inom 24 timmar.  
+- **reason:** Smärtan är måttlig (4/10) och beskrivningen saknar tecken på allvarlig skada eller livshotande blödning, men en grundläggande vård och observation behövs för att förhindra komplikationer."
+45,Infektion/Feber,ont i halsen,5,,"**urgency_level:** 2  
+
+**recommendation:** Kontakta din vårdcentral för en telefon- eller e‑möteskonsultation inom de närmaste dagarna. Om du får svår andningssvårighet, hög feber (> 39 °C) eller snabbt förvärrade symtom, sök vård omedelbart (t.ex. via vårdtelefonsystemet 1177 eller närmaste akutmottagning).  
+
+**reason:** En 45‑årig person med måttlig halsont (5/10) och inga tecken på livshotande tillstånd har ett behov av medicinsk bedömning, men situationen är vanligtvis inte akut. Att få en klinisk bedömning (t.ex. om streptokockinfektion) och eventuell behandling med antibiotika eller smärtstillande är viktigt, men kan normalt ordnas inom kort tid via primärvården."
+88,Infektion/Feber,feber och hosta,9,Väldigt höög feber med ihållande hosta,"**urgency_level:** 5  
+**recommendation:** Ring 112 eller be någon följa med dig till närmaste akutmottagning omedelbart.  
+**reason:** En 88‑årig patient med hög feber, kraftig hosta och smärta på 9/10 kan ha en allvarlig infektion (t.ex. lunginflammation eller sepsis) som snabbt kan bli livshotande. Snabb medicinsk utvärdering och behandling är nödvändig."
+55,Luftvägar,ajajajaj,9,mktkmtont,"**urgency_level:** 5  
+
+**recommendation:** Ring omedelbart 112 (akut larm) och be om en ambulans. Om du själv kan, placera dig i en sittande eller stående position med benen lätt framåtlutade för att underlätta andningen och undvik att lägga dig ner.  
+
+**reason:** Hög smärtintensitet (9/10) och potentiellt livshotande problem i luftvägarna hos en 55‑årig patient kräver omedelbar medicinsk akutsjukvård."
