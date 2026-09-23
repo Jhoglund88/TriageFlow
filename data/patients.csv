@@ -9,3 +9,14 @@ age,symptom_category,symptom_description,pain_scale,emergency_reason,ai_response
 4,Sår/Skador,väldigt ont i magen,9,extrem värk i mage,"- urgency_level: 5  
 - recommendation: Ring 112 eller åk omedelbart till närmaste akutmottagning för barn.  
 - reason: Mycket stark buksmärta (9/10) hos ett 4‑årigt barn kan tyda på allvarliga intra‑abdominella tillstånd som t.ex. blindtarmsinflammation eller tarmobstruktion och kräver omedelbar medicinsk bedömning."
+55,Sår/Skador,Ramlade och skrapde upp min arm,5,,"**urgency_level:** 2  
+
+**recommendation:**  
+1. Tvätta händerna noggrant och rengör såret med mild tvål och ljummet vatten.  
+2. Desinfektera såret med en antiseptisk lösning (t.ex. povidonjod eller klorhexidin).  
+3. Torka försiktigt och lägg på ett sterilt förband eller en ren kompress.  
+4. Byt förband dagligen eller vid behov och håll såret torrt.  
+5. Följ upp för tecken på infektion (ökad rodnad, svullnad, var, feber) eller om smärtan förvärras.  
+6. Sök vård om såret är djupt, blöder kraftigt, är större än 2 cm, eller om du får feber eller andra infektionstecken.  
+
+**reason:** Såret är sannolikt en ytlig skråma med måttlig smärta; det kan behandlas hemma med grundläggande sårvård, men uppföljning är viktig för att upptäcka eventuell infektion eller djupare skada."
