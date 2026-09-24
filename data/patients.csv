@@ -1,12 +1,38 @@
 age,symptom_category,symptom_description,pain_scale,emergency_reason,ai_response
-55,Sår/Skador,ont i halsen,7,,"**urgency_level:** 3  
-**recommendation:** Kontakta vårdcentralen eller ring 1177 för att få en tid samma dag eller inom 24 timmar. Om du får svårighet att andas, hög feber, svullnad i halsen eller svullna lymfkörtlar bör du söka akutvård på en närakut eller uppsöka akutmottagning.  
-**reason:** En 55‑årig med stark halsont (7/10) kan ha en bakteriell infektion eller annan allvarligare orsak som kräver snabb medicinsk bedömning, men utan tecken på livshotande andningssvårigheter är en snar primärvårdskonsultation lämplig."
-44,Infektion/Feber,hög feber,6,,"**urgency_level:** 3  
+4,Sår/Skador,ont i halsen,6,,"**urgency_level:** 3  
 
-**recommendation:** Kontakta en vårdcentral eller en akut mottagning för en medicinsk bedömning så snart som möjligt (inom samma dag). Om febern är mycket hög (≥ 39 °C) eller snabbt förvärras, eller om du får nya symtom som andningssvårigheter, yrsel eller kraftig huvudvärk, sök omedelbart akutvård (akutmottagning). Drick mycket vätska, vila och ta febernedsättande (t.ex. paracetamol) om du har det.
+**recommendation:** Boka tid hos barnläkare eller vårdcentral så snart som möjligt (inom 24‑48 timmar). Om barnet får svårt att svälja, andas tungt, hög feber eller svullnad i halsen, sök akut vård på närmaste akutmottagning.  
 
-**reason:** En 44‑årig med hög feber och måttlig smärta kan ha en allvarlig infektion som kräver snabb utredning och eventuell behandling med antibiotika eller annan specifik terapi. Att få en klinisk bedömning inom kort minskar risken för komplikationer."
-55,Sår/Skador,ont i halsen,9,extremt värk i halsen,"**urgency_level:** 5  
-**recommendation:** Sök omedelbart akut vård – gå till närmaste akutmottagning eller ring 112 om du får svårigheter att andas, svullnad i halsen eller hög feber.  
-**reason:** Svår halsont (9/10) hos en 55‑årig kan vara ett tecken på en allvarlig infektion (t.ex. peritonsillär abscess eller epiglottit) som kräver snabb medicinsk bedömning och eventuell behandling."
+**reason:** En 4‑åring med ont i halsen och smärta 6/10 kan ha en bakteriell infektion (t.ex. streptokock) som kräver snabb undersökning och eventuell antibiotikabehandling. Det är inte en omedelbar livshotande situation, men bör inte vänta längre än några dagar.  
+
+*Observera att detta är allmän rådgivning och inte ersätter en läkarbedömning.*"
+4,Sår/Skador,väldigt ont i magen,9,extrem värk i mage,"- urgency_level: 5  
+- recommendation: Ring 112 eller åk omedelbart till närmaste akutmottagning för barn.  
+- reason: Mycket stark buksmärta (9/10) hos ett 4‑årigt barn kan tyda på allvarliga intra‑abdominella tillstånd som t.ex. blindtarmsinflammation eller tarmobstruktion och kräver omedelbar medicinsk bedömning."
+55,Sår/Skador,Ramlade och skrapde upp min arm,5,,"**urgency_level:** 2  
+
+**recommendation:**  
+1. Tvätta händerna noggrant och rengör såret med mild tvål och ljummet vatten.  
+2. Desinfektera såret med en antiseptisk lösning (t.ex. povidonjod eller klorhexidin).  
+3. Torka försiktigt och lägg på ett sterilt förband eller en ren kompress.  
+4. Byt förband dagligen eller vid behov och håll såret torrt.  
+5. Följ upp för tecken på infektion (ökad rodnad, svullnad, var, feber) eller om smärtan förvärras.  
+6. Sök vård om såret är djupt, blöder kraftigt, är större än 2 cm, eller om du får feber eller andra infektionstecken.  
+
+**reason:** Såret är sannolikt en ytlig skråma med måttlig smärta; det kan behandlas hemma med grundläggande sårvård, men uppföljning är viktig för att upptäcka eventuell infektion eller djupare skada."
+33,Sår/Skador,ajajaja,4,,"- **urgency_level:** 2  
+- **recommendation:** Rengör såret noggrant med tvål och vatten, applicera ett antiseptiskt förband och håll det torrt. Om såret visar tecken på infektion (ökad rodnad, svullnad, var eller feber) eller om smärtan blir värre, sök vård på en vårdcentral eller akutmottagning inom 24 timmar.  
+- **reason:** Smärtan är måttlig (4/10) och beskrivningen saknar tecken på allvarlig skada eller livshotande blödning, men en grundläggande vård och observation behövs för att förhindra komplikationer."
+45,Infektion/Feber,ont i halsen,5,,"**urgency_level:** 2  
+
+**recommendation:** Kontakta din vårdcentral för en telefon- eller e‑möteskonsultation inom de närmaste dagarna. Om du får svår andningssvårighet, hög feber (> 39 °C) eller snabbt förvärrade symtom, sök vård omedelbart (t.ex. via vårdtelefonsystemet 1177 eller närmaste akutmottagning).  
+
+**reason:** En 45‑årig person med måttlig halsont (5/10) och inga tecken på livshotande tillstånd har ett behov av medicinsk bedömning, men situationen är vanligtvis inte akut. Att få en klinisk bedömning (t.ex. om streptokockinfektion) och eventuell behandling med antibiotika eller smärtstillande är viktigt, men kan normalt ordnas inom kort tid via primärvården."
+88,Infektion/Feber,feber och hosta,9,Väldigt höög feber med ihållande hosta,"**urgency_level:** 5  
+**recommendation:** Ring 112 eller be någon följa med dig till närmaste akutmottagning omedelbart.  
+**reason:** En 88‑årig patient med hög feber, kraftig hosta och smärta på 9/10 kan ha en allvarlig infektion (t.ex. lunginflammation eller sepsis) som snabbt kan bli livshotande. Snabb medicinsk utvärdering och behandling är nödvändig."
+55,Luftvägar,ajajajaj,9,mktkmtont,"**urgency_level:** 5  
+
+**recommendation:** Ring omedelbart 112 (akut larm) och be om en ambulans. Om du själv kan, placera dig i en sittande eller stående position med benen lätt framåtlutade för att underlätta andningen och undvik att lägga dig ner.  
+
+**reason:** Hög smärtintensitet (9/10) och potentiellt livshotande problem i luftvägarna hos en 55‑årig patient kräver omedelbar medicinsk akutsjukvård."
