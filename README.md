@@ -7,22 +7,32 @@ Användaren får ange information om en patient och patientens symptom.
 Målet är att programmet senare ska kunna använda AI för att hjälpa till
 att bedöma hur akut ett vårdärende är.
 
-## Syfte
+## Mål och Syfte
 
 Syftet med projektet är att utveckla mina kunskaper inom Python och
 undersöka hur AI kan användas inom digital vård och triage.
 
-## Teknik
+## Metod och Teknik
 
 - Python
 - Git
 - GitHub
 
-## Status
+## Resultat
 
-Projektet är under utveckling.
+## Branchanalys
 
-## Testing
+## Relevanta certifikat
+
+## Reflektion
+
+## Github-länk
+
+## Installation och körning
+
+## Ai-användning
+
+## Tester
 
 Manuella tester genomförda:
 
@@ -37,3 +47,7 @@ Manuella tester genomförda:
 - [x] Timeout vid API-anrop hanteras utan att programmet kraschar.
 - [x] Ogiltigt JSON-svar hanteras utan att programmet kraschar.
 - [x] API-svar med oväntat format hanteras utan att programmet kraschar.
+
+## Status och begränsningar
+
+Projektet är under utveckling.
